@@ -1,4 +1,4 @@
-package org.callbackfunc;
+package org.callbackfunc.byanonymousclass;
 
 // 定义一个回调接口
 interface TaskCallback {
