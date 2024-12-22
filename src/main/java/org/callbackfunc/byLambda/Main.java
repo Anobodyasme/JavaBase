@@ -5,14 +5,6 @@ interface Callback {
     void onEvent(String message);
 }
 
-// 实现接口的类
-class MyCallback implements Callback {
-    @Override
-    public void onEvent(String message) {
-        System.out.println("Callback received: " + message);
-    }
-}
-
 // 使用回调函数的类
 class MyClass {
     public void doSomething(Callback callback) {
