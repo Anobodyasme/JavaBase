@@ -1,4 +1,4 @@
-package org.callbackfunc;
+package org.designpattern.creationnal.dependencyinjection.constrctor.callbackfunc;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;

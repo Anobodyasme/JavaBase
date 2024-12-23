@@ -1,4 +1,4 @@
-package org.callbackfunc.byanonymousclass;
+package org.designpattern.creationnal.dependencyinjection.constrctor.callbackfunc.byanonymousclass;
 
 // 定义一个回调接口
 interface TaskCallback {

@@ -1,4 +1,4 @@
-package org.callbackfunc.byLambda;
+package org.designpattern.creationnal.dependencyinjection.constrctor.callbackfunc.byLambda;
 
 // 定义回调接口
 interface Callback {
