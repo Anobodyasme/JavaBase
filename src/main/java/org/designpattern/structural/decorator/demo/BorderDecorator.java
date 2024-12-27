@@ -1,4 +1,4 @@
-package org.designpattern.structural.decorator;
+package org.designpattern.structural.decorator.demo;
 
 // 添加边框的装饰器
 class BorderDecorator extends ShapeDecorator {

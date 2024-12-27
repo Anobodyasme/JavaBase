@@ -1,4 +1,4 @@
-package org.designpattern.structural.decorator;
+package org.designpattern.structural.decorator.demo;
 
 class Circle implements Shape {
     @Override

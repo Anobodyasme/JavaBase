@@ -1,4 +1,4 @@
-package org.designpattern.structural.decorator;
+package org.designpattern.structural.decorator.demo;
 
 // 装饰器基类
 class ShapeDecorator implements Shape {

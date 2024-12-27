@@ -1,4 +1,4 @@
-package org.designpattern.structural.decorator;
+package org.designpattern.structural.decorator.demo;
 
 class ColorDecorator extends ShapeDecorator {
 
